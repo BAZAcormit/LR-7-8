@@ -1,0 +1,2 @@
+string s = Console.ReadLine().Replace("xabc", "abc");
+            Console.WriteLine(s);
